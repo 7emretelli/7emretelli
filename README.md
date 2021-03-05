@@ -1,6 +1,6 @@
 # Hi Mate! 👋 This is @7emretelli
 
-I'm a developer and mathematician. I love build open-source code, learning new things, resolve difficult and different problems.
+I'm a developer and . I love build open-source code, learning new things.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=7emretelli)
 
