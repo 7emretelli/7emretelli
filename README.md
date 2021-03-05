@@ -6,7 +6,7 @@ I'm a developer and student. I love developing , learning new things.
 
 ### Not only codes! a little bit of rock and a little bit of love 🤟
 
-| 👽Hey this is Emre👽 | 🔗Contact🔗 |
+| 👽 Hey this is Emre 👽 | 🔗 Contact 🔗 |
 | ----------- | ----------- |
 | Computer Science Student |[_Yeditepe University_](https://cse.yeditepe.edu.tr/)|
 | Web, Mobile, Software Developer | [_Twitter_](https://twitter.com/7emretelli "@7emretelli")|
