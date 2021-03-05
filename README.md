@@ -7,10 +7,10 @@ I'm a developer and student. I love developing , learning new things.
 ### I'm running to environments where I can learn new things 🤟
 | 🤠About Me🤠 | 🔗Contact🔗 |
 | ----------- | ----------- |
-| Computer Science Student |[_saracalihan.com_](http://www.saracalihan.com/ "My Website")|
+| Computer Science Student | Yeditepe University |
 | Web, Mobile, Software | [_Twitter_] (https://twitter.com/7emretelli "@7emretelli | come on i am on twitter...")|
 | Istanbul-TURKEY| [_Mail_] (mailto:ismailemre.telli@std.yeditepe.edu.tr "Mail me!")  |
-|Swimming, Kickbox, RC Toys| [_LinkedIn_] (https://www.linkedin.com/in/emre-telli/  "Emre TELLI")|
+| React Native ❤️ | [_LinkedIn_] (https://www.linkedin.com/in/emre-telli/  "Emre TELLI")|
 
 
 
