@@ -5,6 +5,8 @@ I'm a developer and student. I love developing , learning new things.
 ![Profile Views](https://komarev.com/ghpvc/?username=7emretelli)
 
 ### Not only codes! a little bit of rock and a little bit of love 🤟
+![Emre's Github stats](https://github-readme-stats.vercel.app/api?username=7emretelli)
+<img height="200px" src="https://media.giphy.com/media/FxvwjCXc6CSrK/source.gif" />
 
 | 👽 Hey this is Emre 👽 | 🔗 Contact 🔗 |
 | ----------- | ----------- |
@@ -17,6 +19,6 @@ I'm a developer and student. I love developing , learning new things.
 
 
 
-<img height="200px" src="https://media.giphy.com/media/FxvwjCXc6CSrK/source.gif" />
 
-![Emre's Github stats](https://github-readme-stats.vercel.app/api?username=7emretelli)
+
+
