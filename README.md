@@ -18,3 +18,5 @@ I'm a developer and student. I love developing , learning new things.
 
 
 <img height="200px" src="https://media.giphy.com/media/FxvwjCXc6CSrK/source.gif" />
+
+![Emre's Github stats](https://github-readme-stats.vercel.app/api?username=7emretelli)
