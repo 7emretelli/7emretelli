@@ -6,7 +6,7 @@ I'm a developer and student. I love developing , learning new things.
 
 ### Not only codes! a little bit of rock and a little bit of love 🤟
 ![Emre's Github stats](https://github-readme-stats.vercel.app/api?username=7emretelli)
-<img height="300px" src="https://media.giphy.com/media/h8sVibFE0NChi/source.gif" />
+<img height="200px" src="https://media.giphy.com/media/h8sVibFE0NChi/source.gif" />
 
 
 | 👽 Hey this is Emre 👽 | 🔗 Contact 🔗 |
