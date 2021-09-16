@@ -1,6 +1,6 @@
 # Hi Mate! 👋 This is @7emretelli
 
-I'm a developer and student. Talk is cheap, show me the code
+I'm a developer and student. Talk is cheap, please just show me the code
 
 ![Profile Views](https://komarev.com/ghpvc/?username=7emretelli)
 
